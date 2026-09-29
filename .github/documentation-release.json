@@ -4,7 +4,7 @@
     {
       "name": "@stackline/vfile-statistics",
       "path": "readme.md",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "baselineVersion": "1.0.0",
       "keywords": [
         "stackline",
@@ -25,8 +25,8 @@
       "homepage": "https://alexandro.net/docs/vanilla/vfile-statistics/",
       "baselineTarball": "https://registry.npmjs.org/@stackline/vfile-statistics/-/vfile-statistics-1.0.0.tgz",
       "baselineIntegrity": "sha512-xSizHe9oeC9uBGJBRJykPbVTihIbSGGeDvqnMBzEVjU8GUR29oIUXlhYiLulWSF4NNfLtraGhH9wK8wgtFOGfQ==",
-      "expectedSha512": "aff9fd63796560d7d7360c401bb78678939f23019a75458c0f94a3e324a66c5cf7e849c884f1997e139fa78badcf795cffd043588112a854d33b19b9928291e8",
-      "tag": "docs-stackline-vfile-statistics-v1.0.1"
+      "expectedSha512": "47bfa09dea79b7494d9daaa2e4ff368e1ecd765cd2da76b8f17212eaa8e2ce261f27aeebfdcb0b32e440b256a1f1830e3640a672a0e313e5274b1d19ecd1753b",
+      "tag": "docs-stackline-vfile-statistics-v1.0.2"
     }
   ]
 }
